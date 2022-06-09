@@ -26,3 +26,8 @@ calendar, system ,datetime,webbrowser
 # print(c.month((int(input('enter year'))),(int(input('enter month')))))
 
 '''(year,vertical gap b/w dates,harizontal gap b/w dates,gap b/w two months)'''
+<b>----------math---------</b>
+# import math as m
+# r=float(input('enter radius of circle :'))
+# a=m.pi*r**2
+# print(a)
