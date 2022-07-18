@@ -1,5 +1,5 @@
 # 22_importing_modules
-calendar, system ,datetime,webbrowser
+# calendar, system ,datetime,webbrowser
 
 # import sys
 # print(sys.version)
@@ -7,10 +7,10 @@ calendar, system ,datetime,webbrowser
 # import platform
 # print(platform.python_revision)
 
-<b>---------current datetime-----------</b>
-# import datetime
+# <b>---------current datetime-----------</b>
+#  import datetime
 # now = datetime.datetime.now()
-# print ("Current date and time : ")
+# print ("Current date and time : ",now)
 # print (now.strftime("%Y-%m-%d %H:%M:%S"))
 
 # from datetime import date
@@ -19,14 +19,14 @@ calendar, system ,datetime,webbrowser
 # delta=date_2-date_1
 # print(delta.days)
 
-<b>--------------calendar-------------</b>
+# <b>--------------calendar-------------</b>
 # import calendar as c
 # print(c.month(1998,5))
 # print(c.calendar(2018,1,1,3))
 # print(c.month((int(input('enter year'))),(int(input('enter month')))))
 
-'''(year,vertical gap b/w dates,harizontal gap b/w dates,gap b/w two months)'''
-<b>----------math---------</b>
+# '''(year,vertical gap b/w dates,harizontal gap b/w dates,gap b/w two months)'''
+# <b>----------math---------</b>
 # import math as m
 # r=float(input('enter radius of circle :'))
 # a=m.pi*r**2
